@@ -63,6 +63,17 @@ ASP.NET Core MVC • Bootstrap • SQL Server • HTML/CSS/JavaScript
 
 [![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Colla-Notes)
 
+&nbsp;
+
+**Console Banking System** 💰🖥️  
+Clean OOP-based console banking application  
+Account creation • Money transfer • Cibil score • Balance check • Input validation  
+
+**Tech Stack**  
+C# • .NET Console Application  
+
+[![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Console-Banking)
+
 &nbsp;  
 
 **Service Providing Website** 💼🖥️  
@@ -74,17 +85,6 @@ ASP.NET Core • Bootstrap • SQL Server • HTML/CSS/JavaScript
 *(You can update the description & tech stack as needed!)*
 
 <!--[![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Service-Providing-Website)-->
-
-&nbsp;
-
-**Console Banking System** 💰🖥️  
-Clean OOP-based console banking application  
-Account creation • Money transfer • Cibil score • Balance check • Input validation  
-
-**Tech Stack**  
-C# • .NET Console Application  
-
-[![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Console-Banking)
 
 </div>
 
