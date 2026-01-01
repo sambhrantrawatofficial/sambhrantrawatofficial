@@ -65,9 +65,21 @@ ASP.NET Core MVC • Bootstrap • SQL Server • HTML/CSS/JavaScript
 
 &nbsp;  
 
+**Service Providing Website** 💼🖥️  
+Modern platform connecting service providers with customers  
+Service listing • Booking system • User profiles • Responsive design  
+
+**Tech Stack**  
+ASP.NET Core • Bootstrap • SQL Server • HTML/CSS/JavaScript  
+*(You can update the description & tech stack as needed!)*
+
+[![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Service-Providing-Website)
+
+&nbsp;
+
 **Console Banking System** 💰🖥️  
 Clean OOP-based console banking application  
-Account creation • Deposit • Withdrawal • Balance check • Input validation  
+Account creation • Money transfer • Cibil score • Balance check • Input validation  
 
 **Tech Stack**  
 C# • .NET Console Application  
