@@ -82,7 +82,6 @@ Service listing • Booking system • User profiles • Responsive design
 
 **Tech Stack**  
 ASP.NET Core • Bootstrap • SQL Server • HTML/CSS/JavaScript  
-*(You can update the description & tech stack as needed!)*
 
 <!--[![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Service-Providing-Website)-->
 
