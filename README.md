@@ -55,17 +55,6 @@ Public collaborative notes sharing platform
 
 <br>
 
-**Service Providing Website** 💼🖥️  
-Modern platform connecting service providers with customers  
-• Service listing & discovery  
-• Booking system • User profiles • Responsive design  
-
-**Tech Stack:** ASP.NET Core • Bootstrap • SQL Server • HTML/CSS/JavaScript  
-
-<!-- [![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Service-Providing-Website) -->
-
-<br>
-
 **Console Banking System** 💰🖥️  
 Clean OOP-based console banking application  
 • Account creation • Money transfer • CIBIL score simulation  
@@ -74,6 +63,19 @@ Clean OOP-based console banking application
 **Tech Stack:** C# • .NET Console Application  
 
 [![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Console-Banking)
+
+
+
+<br>
+
+**Service Providing Website** 💼🖥️  
+Modern platform connecting service providers with customers  
+• Service listing & discovery  
+• Booking system • User profiles • Responsive design  
+
+**Tech Stack:** ASP.NET Core • Bootstrap • SQL Server • HTML/CSS/JavaScript  
+
+<!-- [![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Service-Providing-Website) -->
 
 ---
 
