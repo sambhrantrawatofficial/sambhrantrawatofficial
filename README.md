@@ -9,25 +9,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Aspiring+Full-Stack+Developer;.NET+%26+C%23+Enthusiast;Learning+every+day+to+build+better+software" alt="Typing SVG" />
 </div>
 
----
+<br>
 
 ### 🌍 About Me
-
-<div align="center">
 
 📍 Based in **Sitapur, Uttar Pradesh, India**  
 🎯 Focused on **C#**, **ASP.NET Core**, **Web Development** & **Clean Architecture**  
 🚀 Learning modern full-stack development through hands-on projects  
-💡 Love turning ideas into real working applications  
-📚 Always eager to learn, improve code quality & explore new technologies
-
-</div>
+💡 Passionate about turning ideas into real, working applications  
+📚 Always eager to learn, improve code quality, and explore new technologies
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-
-<div align="center">
 
 **Languages**  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -46,63 +40,51 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
-
 ---
 
 ### 🚀 Featured Projects
 
-<div align="center">
-
 **Colla Notes** 🌐✨  
 Public collaborative notes sharing platform  
-Create • Publish • Like • Comment • Tag notes • Personal analytics dashboard  
+• Create, publish, like & comment on notes  
+• Tag system & personal analytics dashboard  
 
-**Tech Stack**  
-ASP.NET Core MVC • Bootstrap • SQL Server • HTML/CSS/JavaScript  
+**Tech Stack:** ASP.NET Core MVC • Bootstrap • SQL Server • HTML/CSS/JavaScript  
 
 [![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Colla-Notes)
 
-&nbsp;
-
-**Console Banking System** 💰🖥️  
-Clean OOP-based console banking application  
-Account creation • Money transfer • Cibil score • Balance check • Input validation  
-
-**Tech Stack**  
-C# • .NET Console Application  
-
-[![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Console-Banking)
-
-&nbsp;  
+<br>
 
 **Service Providing Website** 💼🖥️  
 Modern platform connecting service providers with customers  
-Service listing • Booking system • User profiles • Responsive design  
+• Service listing & discovery  
+• Booking system • User profiles • Responsive design  
 
-**Tech Stack**  
-ASP.NET Core • Bootstrap • SQL Server • HTML/CSS/JavaScript  
+**Tech Stack:** ASP.NET Core • Bootstrap • SQL Server • HTML/CSS/JavaScript  
 
-<!--[![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Service-Providing-Website)-->
+<!-- [![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Service-Providing-Website) -->
 
-</div>
+<br>
+
+**Console Banking System** 💰🖥️  
+Clean OOP-based console banking application  
+• Account creation • Money transfer • CIBIL score simulation  
+• Deposit/Withdrawal • Balance check • Input validation  
+
+**Tech Stack:** C# • .NET Console Application  
+
+[![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Console-Banking)
 
 ---
 
-### 📫 Let's Connect!
-
-<div align="center">
+### 📫 Let's Connect
 
 I'm always happy to talk about code, projects, learning, or technology! 🚀
 
-&nbsp;
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial)
 
-<!-- Uncomment when you have LinkedIn -->
+<!-- Uncomment when ready -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) -->
-
-</div>
 
 <br>
 
