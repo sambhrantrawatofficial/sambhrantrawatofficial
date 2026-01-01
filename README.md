@@ -5,7 +5,7 @@
     <strong>Aspiring Full-Stack Developer</strong> • .NET & C# Enthusiast • Building clean & meaningful applications
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C4B4&center=true&vCenter=true&width=550&lines=Aspiring+Full-Stack+Developer;.NET+%26+C%23+Developer;Learning+every+day+to+build+better+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C4B4&center=true&vCenter=true&width=550&lines=Aspiring+Full-Stack+Developer;.NET+%26+C%23+Development+enthusiast;Learning+every+day+to+build+better+software" alt="Typing SVG" />
 </div>
 
 ---
@@ -31,6 +31,7 @@
 **Frameworks & Platforms**  
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Tools**  
@@ -46,7 +47,7 @@
 Collaborative public notes sharing platform  
 Users can create, publish, like, comment, tag notes and view personal analytics dashboard  
 
-**Tech** → ASP.NET Core MVC • SQL Server • HTML/CSS/JavaScript  
+**Tech** → ASP.NET Core MVC • Bootstrap • SQL Server • HTML/CSS/JavaScript  
 
 [→ Check it out on GitHub](https://github.com/sambhrantrawatofficial/Colla-Notes)
 
