@@ -57,8 +57,8 @@ Public collaborative notes sharing platform
 
 **Console Banking System** 💰🖥️  
 Clean OOP-based console banking application  
-• Account creation • Money transfer • CIBIL score simulation  
-• Deposit/Withdrawal • Balance check • Input validation  
+• Account creation • Money transfer • CIBIL score simulation 
+• Balance check • Input validation  
 
 **Tech Stack:** C# • .NET Console Application  
 
@@ -75,7 +75,7 @@ Modern platform connecting service providers with customers
 
 **Tech Stack:** ASP.NET Core • Bootstrap • SQL Server • HTML/CSS/JavaScript  
 
-[![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Service-Providing-Website)
+[![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/ServiceCompany)
 
 ---
 
