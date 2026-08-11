@@ -77,6 +77,18 @@ Modern platform connecting service providers with customers
 
 [![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/ServiceCompany)
 
+<br>
+
+**Hospital Management System** 🏥✨  
+Complete hospital management platform  
+• Patient appointments, receptionist & doctor management  
+• Prescriptions, laboratory tests, pharmacy & billing  
+• Admin panel for managing users, doctors, departments & hospital operations  
+**Tech Stack:** ASP.NET Core MVC • C# • Entity Framework Core • SQL Server • Bootstrap • Razor/CSHTML  
+
+[![View Project →](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambhrantrawatofficial/Hospital-Management-System)
+
+
 ---
 
 ### 📫 Let's Connect
