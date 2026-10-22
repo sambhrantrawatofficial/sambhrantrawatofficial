@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there! I'm Sambhran Rawat 👋</h1>
+  <h1>Hey there! I'm Sambhrant Rawat 👋</h1>
   
   <p>
     <strong>Aspiring Full-Stack Developer</strong> • .NET & C# Enthusiast<br>
